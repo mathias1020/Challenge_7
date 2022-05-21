@@ -1,6 +1,6 @@
 # Challenge_7
 
-# **Financial planning evaluation of emergency funds and likely investment outcomes for portfolio allocations**
+# **FinTech ETF portfolio analysis**
 
 This notebook is an analysis of a Fintech focused ETF fund that analyzes daily returns of the entire portfolio as well as individual stocks within the portfolio.  It leverages SQL style database using the SQLAlchemy module to improve performance and can be deployed as a standalone web app using the Voila module.
 
